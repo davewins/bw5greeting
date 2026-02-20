@@ -8,7 +8,7 @@
 #         bw5_project_name: "greeting"
 #  bw5_project_description: 
 #                  repoUrl: "github.com?owner=davewins&repo=bw5greeting"
-#                    owner: "group:default/tibco-imported"
+#                    owner: "group:default/marketplace-entries-group"
 #                api_files: []
 #          api_files_names: []
 #                 db_files: []
@@ -51,7 +51,7 @@ metadata:
 spec:
     type: bw-5-process
     lifecycle: production
-    owner: group:default/tibco-imported
+    owner: group:default/marketplace-entries-group
     subcomponentOf: component:default/greeting
     # system: greeting   
 
