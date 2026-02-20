@@ -1,0 +1,8 @@
+.vcrepo
+.lock
+vcrepo.dat
+*.log
+*.working
+.designtime
+*.ear
+

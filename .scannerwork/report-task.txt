@@ -1,0 +1,6 @@
+projectKey=BW5-Greeting
+serverUrl=http://192.168.1.239:9000
+serverVersion=25.4.0.105899
+dashboardUrl=http://192.168.1.239:9000/dashboard?id=BW5-Greeting
+ceTaskId=718263fb-d0a7-43a4-96c4-6bcc885fa763
+ceTaskUrl=http://192.168.1.239:9000/api/ce/task?id=718263fb-d0a7-43a4-96c4-6bcc885fa763
